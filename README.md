@@ -2,7 +2,7 @@
 
 This repository demonstrates how to dockerize and deploy a [Node.js](https://nodejs.org/en) application to [Back4app Containers](https://www.back4app.com/container-as-a-service-caas).
 
-To learn more check out the [article](x).
+To learn more check out the [article](https://blog.back4app.com/how-to-host-a-node-js-application/).
 
 ## Development
 
